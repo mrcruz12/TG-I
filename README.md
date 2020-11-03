@@ -9,9 +9,7 @@ Este trabalho utilizará de levantamentos de requisitos, assim será feita uma e
 O objetivo geral deste trabalho é desenvolver um modulo que irá fazer uma solução simplificada para manutenção de estruturas de localização em gestão de ativos no sistema OKTO da ATECH.
 #### 1.2. Conteúdo do Trabalho
 O presente trabalho está estruturado em seis Capítulos, cujo conteúdo é sucintamente apresentado a seguir:
-
 No Capítulo 2 será apresentado os levantamentos de requisitos e as tecnologias que serão utilizadas na implementação do projeto.
-
 No Capítulo 3 apresenta a arquitetura da aplicação, desenvolvimento da solução.
 No Capítulo 4 ....
 No Capítulo 5 ....
