@@ -13,7 +13,5 @@ O presente trabalho está estruturado em seis Capítulos, cujo conteúdo é suci
 No Capítulo 2 será apresentado os levantamentos de requisitos e as tecnologias que serão utilizadas na implementação do projeto.
 
 No Capítulo 3 apresenta a arquitetura da aplicação, desenvolvimento da solução.
-
 No Capítulo 4 ....
-
 No Capítulo 5 ....
