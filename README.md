@@ -13,3 +13,23 @@ No Capítulo 2 será apresentado os levantamentos de requisitos e as tecnologias
 No Capítulo 3 apresenta a arquitetura da aplicação, desenvolvimento da solução.
 No Capítulo 4 ....
 No Capítulo 5 ....
+
+
+### 2. FUNDAMENTAÇÃO TÉCNICA
+Neste capítulo será visto o levantamento de requisitos e uma previa sobre as tecnologias que vamos utilizar para o desenvolvimento do sistema. 
+#### 2.1. Levantamento de Requisitos
+	Levantamento de requisitos é a técnica de investigar, procurar as necessidades e/ou exigências do sistema. Através de uma entrevista o engenheiro de sistemas, coletas as informações junto ao cliente.
+	Este módulo disponibilizará uma interface em o usuário irá controlar os seus ativos. Será exibido uma arvore, onde terá os seus “nós” ou “filhos”. Terá como “raiz” No sistema o usuário pode cadastrará um “nó”, o sistema terá um controlar a quantidades de “nós”, pois terá uma quantidade máxima configurada. 
+ 
+
+ 
+
+ 
+#### 2.1.1. Requisitos Funcionais
+Os requisitos funcionais definem as funcionalidades que um sistema deve fazer, sempre descritos os comportamentos de entrada e saída. São funcionalidades que o sistema deve fazer.
+ 
+#### 2.1.2. Requisitos não funcionais
+Os requisitos não funcionais definem os atributos do sistema, como segurança, confiabilidade, desempenho, capacidade de manutenção, escalabilidade e usabilidade. Não dizem respeito diretamente as funções específicas do sistema. São qualidades que o sistema de ter.
+
+#### 2.2. Tecnologias Arquitetura Web
+Neste projeto vamos utilizar a Arquitetura Web e será implementada separadamente com as Arquiteturas Backend e Frontend, que irão ser apresentadas no próximo capítulo. Para a implementação desta serão utilizadas algumas tecnologias que veremos a seguir:
