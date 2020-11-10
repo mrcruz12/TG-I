@@ -18,8 +18,8 @@ No Capítulo 5 ....
 ### 2. FUNDAMENTAÇÃO TÉCNICA
 Neste capítulo será visto o levantamento de requisitos e uma previa sobre as tecnologias que vamos utilizar para o desenvolvimento do sistema. 
 #### 2.1. Levantamento de Requisitos
-	Levantamento de requisitos é a técnica de investigar, procurar as necessidades e/ou exigências do sistema. Através de uma entrevista o engenheiro de sistemas, coletas as informações junto ao cliente.
-	Este módulo disponibilizará uma interface em o usuário irá controlar os seus ativos. Será exibido uma arvore, onde terá os seus “nós” ou “filhos”. Terá como “raiz” No sistema o usuário pode cadastrará um “nó”, o sistema terá um controlar a quantidades de “nós”, pois terá uma quantidade máxima configurada. 
+Levantamento de requisitos é a técnica de investigar, procurar as necessidades e/ou exigências do sistema. Através de uma entrevista o engenheiro de sistemas, coletas as informações junto ao cliente.
+Este módulo disponibilizará uma interface em o usuário irá controlar os seus ativos. Será exibido uma arvore, onde terá os seus “nós” ou “filhos”. Terá como “raiz” No sistema o usuário pode cadastrará um “nó”, o sistema terá um controlar a quantidades de “nós”, pois terá uma quantidade máxima configurada. 
  
 
  
