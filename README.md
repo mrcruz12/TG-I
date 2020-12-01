@@ -30,3 +30,18 @@ Os requisitos não funcionais definem os atributos do sistema, como segurança, 
 
 #### 2.2. Tecnologias Arquitetura Web
 Neste projeto vamos utilizar a Arquitetura Web e será implementada separadamente com as Arquiteturas Backend e Frontend, que irão ser apresentadas no próximo capítulo. Para a implementação desta serão utilizadas algumas tecnologias que veremos a seguir:
+
+###3. DESENVOLVIMENTO
+Neste capítulo deve ser abordado a metodologia e o enfoque experimental utilizados no trabalho. O título DESENVOLVIMENTO é OBRIGATÓRIO, podendo os subtítulos serem modificados pelo(s) autor(es) de acordo com o trabalho que está sendo desenvolvido, com uma abordagem tecnológica ou científica. 
+Em relação a formatação, deve seguir o padrão das instruções apresentadas ao final deste documento.
+
+####3.1. Arquitetura do Sistema
+Uma aplicação web é um software executado em um servidor disponível na rede (internet). Para acessar uma aplicação web, é necessário o uso de um navegador com conexão à internet.
+Dois termos muitos usados na arquitetura web são o back-end e front-end, os quais serão utilizados na implementação deste trabalho.
+
+####3.1.1. Front-end
+	Front-end é a parte visual do sistema que o usuário interage diretamente, vezes chamado “lado do cliente”, para que o usuário tenha uma boa experiência é muito importante ser bem modelado, para que o usuário tenha uma boa experiência. 
+
+####3.1.2. Back-end
+ 	Back-end é a parte do sistema que o usuário não “vê”, onde fica toda regra de negócio, processamento, domínio, conexão com o banco de dados, segurança etc.
+
