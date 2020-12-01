@@ -34,6 +34,15 @@ Os requisitos não funcionais definem os atributos do sistema, como segurança, 
 #### 2.2. Tecnologias Arquitetura Web
 Neste projeto vamos utilizar a Arquitetura Web e será implementada separadamente com as Arquiteturas Backend e Frontend, que irão ser apresentadas no próximo capítulo. Para a implementação desta serão utilizadas algumas tecnologias que veremos a seguir:
 
+#### 2.2.1. Tecnologias Front-end
+Front-end é a parte visual do sistema que para ser desenvolvido vamos utilizar.
+![](/img/Imagem5.png)
+
+#### 2.2.2. Tecnologias Back-end
+ Back-end é a parte das validações e regras, e será utilizada as tecnologias abaixo.
+![](/img/Imagem6.png)
+
+
 ### 3. DESENVOLVIMENTO
 
 #### 3.1. Arquitetura do Sistema
