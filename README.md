@@ -26,6 +26,7 @@ Este módulo disponibilizará uma interface em o usuário irá controlar os seus
  
 #### 2.1.1. Requisitos Funcionais
 Os requisitos funcionais definem as funcionalidades que um sistema deve fazer, sempre descritos os comportamentos de entrada e saída. São funcionalidades que o sistema deve fazer.
+![](/img/Imagem4.png)
  
 #### 2.1.2. Requisitos não funcionais
 Os requisitos não funcionais definem os atributos do sistema, como segurança, confiabilidade, desempenho, capacidade de manutenção, escalabilidade e usabilidade. Não dizem respeito diretamente as funções específicas do sistema. São qualidades que o sistema de ter.
