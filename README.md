@@ -40,8 +40,8 @@ Uma aplicação web é um software executado em um servidor disponível na rede 
 Dois termos muitos usados na arquitetura web são o back-end e front-end, os quais serão utilizados na implementação deste trabalho.
 
 #### 3.1.1. Front-end
-	Front-end é a parte visual do sistema que o usuário interage diretamente, vezes chamado “lado do cliente”, para que o usuário tenha uma boa experiência é muito importante ser bem modelado, para que o usuário tenha uma boa experiência. 
+Front-end é a parte visual do sistema que o usuário interage diretamente, vezes chamado “lado do cliente”, para que o usuário tenha uma boa experiência é muito importante ser bem modelado, para que o usuário tenha uma boa experiência. 
 
 #### 3.1.2. Back-end
- 	Back-end é a parte do sistema que o usuário não “vê”, onde fica toda regra de negócio, processamento, domínio, conexão com o banco de dados, segurança etc.
+Back-end é a parte do sistema que o usuário não “vê”, onde fica toda regra de negócio, processamento, domínio, conexão com o banco de dados, segurança etc.
 
