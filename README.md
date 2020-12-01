@@ -32,8 +32,6 @@ Os requisitos não funcionais definem os atributos do sistema, como segurança, 
 Neste projeto vamos utilizar a Arquitetura Web e será implementada separadamente com as Arquiteturas Backend e Frontend, que irão ser apresentadas no próximo capítulo. Para a implementação desta serão utilizadas algumas tecnologias que veremos a seguir:
 
 ### 3. DESENVOLVIMENTO
-Neste capítulo deve ser abordado a metodologia e o enfoque experimental utilizados no trabalho. O título DESENVOLVIMENTO é OBRIGATÓRIO, podendo os subtítulos serem modificados pelo(s) autor(es) de acordo com o trabalho que está sendo desenvolvido, com uma abordagem tecnológica ou científica. 
-Em relação a formatação, deve seguir o padrão das instruções apresentadas ao final deste documento.
 
 #### 3.1. Arquitetura do Sistema
 Uma aplicação web é um software executado em um servidor disponível na rede (internet). Para acessar uma aplicação web, é necessário o uso de um navegador com conexão à internet.
